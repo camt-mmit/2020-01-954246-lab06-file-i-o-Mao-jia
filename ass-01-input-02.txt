@@ -1,0 +1,4 @@
+3
+Cindy 10
+Erik 20
+Frank 15
